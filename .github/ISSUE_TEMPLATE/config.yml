@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Support
-    url: "https://smkwon730.github.io"
+    url: https://mmistakes.github.io/minimal-mistakes/
     about: Please post your support questions in the Discussions section.
